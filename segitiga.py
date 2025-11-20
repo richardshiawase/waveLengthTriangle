@@ -1,5 +1,5 @@
 def segitiga(inputan):
-    print("test 1234")
+    print("test 12345")
     mid = inputan//2
     mid1 = mid
     mid2 = mid
